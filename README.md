@@ -1,5 +1,5 @@
 ### Hello this is Gursimran Singh 👋
-### I want to be a python developer.
+### I am a python learning enthusiast and want to gain more and more knowledge about Data Science and Cloud Computing
 
 <!--
 **Gursimran123/Gursimran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
