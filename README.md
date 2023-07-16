@@ -1,5 +1,5 @@
 ### Hello this is Gursimran Singh 👋
-### I am a python learning enthusiast and want to gain more and more knowledge about Data Science and Cloud Computing
+### I am a Frontend Developer and want to gain more and more knowledge about Full Stack and Cloud Computing
 
 <!--
 **Gursimran123/Gursimran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
