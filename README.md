@@ -1,5 +1,5 @@
 ### Hello this is Gursimran Singh 👋
-### I am a Frontend Developer and want to gain more and more knowledge about Full Stack and Cloud Computing
+### I am a Frontend Developer and have skill related to HTML, CSS, Javascript, Reactjs, Next.js etc. and also have basic to intermediate usnderstanding of backend skills like Node.js, ExpressJs, MongoDB and AWS Cloud.
 
 <!--
 **Gursimran123/Gursimran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
